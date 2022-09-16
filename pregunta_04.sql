@@ -39,6 +39,6 @@
 --  2  C  CCCE
 --
 --  >>> Escriba su codigo a partir de este punto <<<
--- 
-SELECT K0, c16 FROM Tp
-WHERE c16 LIKE K0||'%';
+SELECT K0, c16 FROM T 
+WHERE c16 LIKE K0 || '%';
+
