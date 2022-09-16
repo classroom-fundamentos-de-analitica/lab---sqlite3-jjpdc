@@ -16,5 +16,4 @@
 --  0  15137.63
 --
 --  >>> Escriba su codigo a partir de este punto <<<
---
 SELECT SUM(c12) from tbl;
